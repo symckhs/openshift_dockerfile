@@ -1,0 +1,1 @@
+COPY openshift_dockerfile.txt
